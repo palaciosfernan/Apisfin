@@ -1,0 +1,7 @@
+JWT_SECRET=bezkoder-secret-key
+PORT = 8080
+MONGODB_HOST=3.94.46.116
+MONGODB_DATABASE=TiendaDB
+IdFolder = 1fws_pc5TJY55POP-NPuScbMROPC1Ia3F
+USER=adminusername
+PASSWORD=adminpassword
